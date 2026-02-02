@@ -19,4 +19,25 @@ iframe {
     margin-left: 20px;
     width: 270px;
     height: 470px;
+    position: relative;
+}
+
+.redes  {
+    display: block;
+    position: absolute;
+    left: 95%;
+    translate: -50% -50%;
+}
+
+#home  {
+    top: 50px;
+}
+
+#instagram {
+    top: 120px;
+}
+
+a > img {
+    width: 50px;
+    border-radius: 100px;
 }
